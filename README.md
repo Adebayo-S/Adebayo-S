@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Samuel
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://miro.com/app/board/uXjVOM0ybcI=/?moveToWidget=3458764519815469491&cot=14)
+#### Here's my profile. Feel free to connect.
+![Here's my profile. Feel free to connect.](https://miro.com/app/board/uXjVOM0ybcI=/?moveToWidget=3458764519815469491&cot=14)
 
 I am a Software Engineer, currently learning with alx-Holberton, Udacity and altSchool Africa.
 
