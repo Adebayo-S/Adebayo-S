@@ -7,10 +7,9 @@
 I am a Software Engineer, currently learning with alx-Holberton, Udacity and altSchool Africa. Some technologies I work with include JavaScript, Python, C and the MERN stack. I have also done some gamedev using C# and Unity. I am interested in building competence as a Software Engineer to ultimately become worldclass and to contribute towards developing the tech community amongst disadvantaged groups in my community.
 
 - 🔭 I’m currently working on proCode Digital Solutions 
-- 🌱 I’m currently learning Everything 😄 
+- 🌱 I’m currently learning Everything 😁 
 - 👯 I’m looking to collaborate on MERN Web development projects 
 - 💬 Ask me about anything [here](https://github.com/Adebayo-S/Adebayo-S/issues)
-- 📫 How to reach me: @el_adebayor 
 
 ## Find me around the web 🌎: <a href="https://github.com/Adebayo-S"><img align="left" width="150" height="150" src="https://media.giphy.com/media/ZRiLoLix9pnW7cVB5y/giphy.gif"></a>
 - Check my portfolio on <a href="">adebayo.dev</a> 🌐
@@ -47,8 +46,8 @@ I am a Software Engineer, currently learning with alx-Holberton, Udacity and alt
   <img align="right" alt="Adebayo Samuel | Twitter" width="21px" src="https://github.com/github/explore/blob/main/topics/twitter/twitter.png" />
 </a>
 <a href="https://codepen.io/adebayo-s">
-  <img align="right" alt="Adebayo Samuel | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+  <img align="right" alt="Adebayo Samuel | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg"/>
 </a>
-<a href="https://instagram.com/so.adebayo">
-  <img align="right" alt="Adebayo Samuel | Instagram" width="20px" src="https://github.com/github/explore/blob/main/topics/instagram/instagram.png" />
+<a href="https://s-adebayo.hashnode.dev/">
+  <img align="right" alt="Adebayo Samuel | Hashnode" width="20px" src="https://github.com/dephraiim/hacknode/blob/345ccd76108f9cc43430e606ee7dcf3030646dbe/assets/hashnode.png"/>
 </a>
