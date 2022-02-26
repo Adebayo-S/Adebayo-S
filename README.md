@@ -4,7 +4,7 @@
 
 <img src="https://miro.com/app/board/uXjVOM0ybcI=/?moveToWidget=3458764519815469491&cot=14" alt="introductory banner for Adebayo Samuel">
 
-I am a Software Engineer, currently learning with alx-Holberton, Udacity and altSchool Africa. Some technologies I work with include JavaScript, Python, C, ReactJS, Node, MERN stack and GraphQL. I have also done some gamedev using C# and Unity. I am interested in building competence as a Software Engineer to ultimately become worldclass and to contribute towards developing the tech community amongst disadvantaged groups in my community.
+I am a Software Engineer, currently learning with alx-Holberton, Udacity and altSchool Africa. Some technologies I work with include JavaScript, Python, C and the MERN stack. I have also done some gamedev using C# and Unity. I am interested in building competence as a Software Engineer to ultimately become worldclass and to contribute towards developing the tech community amongst disadvantaged groups in my community.
 
 - 🔭 I’m currently working on proCode Digital Solutions 
 - 🌱 I’m currently learning Everything 😄 
