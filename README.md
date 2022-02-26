@@ -25,7 +25,7 @@ I am a Software Engineer, currently learning with alx-Holberton, Udacity and alt
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 
-| <a href="https://github.com/Adebayo-S/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Adebayo-S&show_icons=true&include_all_commits=true&theme=dark&count_private=true&hide_border=true&border_radius=2&hide=stars,prs,issues,contribs" alt="Adebayo's github stats" /></a> | <a href="https://github.com/Adebayo-S/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adebayo-S&layout=compact&theme=dark&hide_border=true&hide=html,css&layout=compact" /></a> |
+| <a href="https://github.com/Adebayo-S/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Adebayo-S&show_icons=true&include_all_commits=true&theme=dark&count_private=true&hide_border=true&border_radius=2&hide=stars,prs,issues,contribs" alt="Adebayo's github stats" /></a> | <a href="https://github.com/Adebayo-S/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adebayo-S&layout=compact&theme=dark&hide_border=true&hide=html,css" /></a> |
 | ------------- | ------------- |
 
 <br />
