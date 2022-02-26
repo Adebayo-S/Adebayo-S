@@ -15,6 +15,7 @@ I am a Software Engineer, currently learning with alx-Holberton, Udacity and alt
 - Check my portfolio on <a href="">adebayo.dev</a> 🌐
 - I will be tinkering with CSS and SVG art here <a href="https://codepen.io/adebayo-s"> Codepen</a> 👨‍💻
 - Sharing updates on <a href="https://s-adebayo.hashnode.dev/">Hashnode</a> 💼
+<br />
 
 #### Languages and Tools:
 
