@@ -17,7 +17,7 @@ I am a Software Engineer, currently learning with alx-Holberton, Udacity and alt
 - I will be tinkering with CSS and SVG art here <a href="https://codepen.io/adebayo-s"> Codepen</a> 👨‍💻
 - Sharing updates on <a href="https://s-adebayo.hashnode.dev/">Hashnode</a> 💼
 
-**Languages and Tools:** 
+#### Languages and Tools:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -31,13 +31,12 @@ I am a Software Engineer, currently learning with alx-Holberton, Udacity and alt
 <br />
 <br />
 
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+<a href="https://twitter.com/el_adebayor">
+  <img align="right" alt="Adebayo Samuel | Twitter" width="21px" src="https://github.com/github/explore/blob/main/topics/twitter/twitter.png" />
 </a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+<a href="https://codepen.io/adebayo-s">
+  <img align="right" alt="Adebayo Samuel | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
 </a>
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Adebayo-S)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://s-adebayo.hashnode.dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/so.adebayo/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/el_adebayor)  
-
+<a href="https://instagram.com/so.adebayo">
+  <img align="right" alt="Adebayo Samuel | Instagram" width="20px" src="https://github.com/github/explore/blob/main/topics/instagram/instagram.png" />
+</a>
