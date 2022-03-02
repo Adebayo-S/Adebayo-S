@@ -7,7 +7,7 @@
 I am a Software Engineer and web developer with a good eye for design.
 I am passionate about education, general Engineering principles, building and breaking stuff, and creating art.
 
-- 🔭 I’m currently working JavaScript, Python, C and the MERN stack.
+- 🔭 I’m currently working with JavaScript, Python, C and the MERN stack.
 - 🌱 I’m currently learning Everything 😁
 - 👯 I’m looking to collaborate on MERN Web development projects
 - 💬 Ask me about anything [here](https://github.com/Adebayo-S/Adebayo-S/issues)
