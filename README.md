@@ -12,7 +12,7 @@ I am passionate about education, general Engineering principles, building and br
 - 👯 I’m looking to collaborate on MERN Web development projects
 - 💬 Ask me about anything [here](https://github.com/Adebayo-S/Adebayo-S/issues)
 
-## Find me around the web 🌎: <a href="https://github.com/Adebayo-S"><img align="left" width="150" height="150" src="https://media.giphy.com/media/ZRiLoLix9pnW7cVB5y/giphy.gif"></a>
+## Find me around the web 🌎: <a href="https://github.com/Adebayo-S"><img align="left" width="150" height="150" style="margin-right: 50px" src="https://media.giphy.com/media/ZRiLoLix9pnW7cVB5y/giphy.gif"></a>
 - Check my portfolio on <a href="">adebayo.dev</a> 🌐
 - I will be tinkering with CSS and SVG art here <a href="https://codepen.io/adebayo-s"> Codepen</a> 👨‍💻
 - Sharing updates on <a href="https://s-adebayo.hashnode.dev/">Hashnode</a> 💼
