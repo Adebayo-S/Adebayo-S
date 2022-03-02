@@ -4,9 +4,10 @@
 
 <img src="/assets/Profile-Header.jpg" alt="introductory banner for Adebayo Samuel">
 
-I am a Software Engineer, currently learning with alx-Holberton, Udacity and altSchool Africa. Some technologies I work with include JavaScript, Python, C and the MERN stack. I have also done some gamedev using C# and Unity. Ultimately, I want to be "worldclass", and to contribute towards developing the tech community amongst disadvantaged groups in my community.
+I am a Software Engineer and web developer with a good eye for design.
+I am passionate about education, general Engineering principles, building and breaking stuff, and creating art.
 
-- 🔭 I’m currently working on proCode Digital Solutions
+- 🔭 I’m currently working JavaScript, Python, C and the MERN stack.
 - 🌱 I’m currently learning Everything 😁
 - 👯 I’m looking to collaborate on MERN Web development projects
 - 💬 Ask me about anything [here](https://github.com/Adebayo-S/Adebayo-S/issues)
