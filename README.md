@@ -2,7 +2,7 @@
 
 #### Here's my profile. Feel free to connect.
 
-<img src="/assets/Profile-Header-v2.jpg" alt="introductory banner for Adebayo Samuel">
+<img src="/assets/Profile Header-v2.jpg" alt="introductory banner for Adebayo Samuel">
 
 I am a Software Engineer and web developer with a good eye for design.
 I am passionate about education, general Engineering principles, building and breaking stuff, and creating art.
