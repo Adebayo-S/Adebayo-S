@@ -4,8 +4,7 @@
 
 <img src="/assets/Profile Header-v2.jpg" alt="introductory banner for Adebayo Samuel">
 
-I am a Software Engineer and web developer with a good eye for design.
-I am passionate about education, general Engineering principles, building and breaking stuff, and creating art.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+a+Software+Engineer+and+web+developer+with+a+good+eye+for+design.;I+am+passionate+about+education,+general+Engineering+principles,+building+and+breaking+stuff,+and+creating+art.)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working with JavaScript, Python, C and the MERN stack.
 - 🌱 I’m currently learning Everything 😁
