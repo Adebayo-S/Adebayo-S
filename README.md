@@ -1,10 +1,11 @@
 # Hi there 👋, my name is Samuel
 
-#### Here's my profile. Feel free to connect.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&center=true&multiline=true&width=800&lines=Here's+my+profile.+Feel+free+to+connect.)](https://git.io/typing-svg)
 
 <img src="/assets/Profile Header-v2.jpg" alt="introductory banner for Adebayo Samuel">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+a+Software+Engineer+and+web+developer+with+a+good+eye+for+design.;I+am+passionate+about+education,+general+Engineering+principles,+building+and+breaking+stuff,+and+creating+art.)](https://git.io/typing-svg)
+I am a Software Engineer and web developer with a good eye for design.
+I am passionate about education, general Engineering principles, building and breaking stuff, and creating art.
 
 - 🔭 I’m currently working with JavaScript, Python, C and the MERN stack.
 - 🌱 I’m currently learning Everything 😁
