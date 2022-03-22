@@ -1,6 +1,6 @@
 # Hi there 👋, my name is Samuel
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&center=true&multiline=true&width=800&lines=Here's+my+profile.+Feel+free+to+connect.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=E6E2A9&center=true&multiline=true&width=800&lines=Here's+my+profile.+Feel+free+to+connect.)](https://git.io/typing-svg)
 
 <img src="/assets/Profile Header-v2.jpg" alt="introductory banner for Adebayo Samuel">
 
