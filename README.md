@@ -14,7 +14,8 @@ I am passionate about education, general Engineering principles, building and br
 
 ## Find me around the web 🌎:
 - Check my portfolio on <a href="">adebayo.dev</a> 🌐
-- I will be tinkering with CSS and SVG art here <a href="https://codepen.io/adebayo-s"> Codepen</a> 👨‍💻
+- I fiddle with HTML CSS and JS here <a href="https://codepen.io/adebayo-s"> Codepen</a> 👨‍💻
+- hosted projects can be found here <a href="https://replit.com/@Adebayo-S"> Replit</a>
 - Sharing updates on <a href="https://s-adebayo.hashnode.dev/">Hashnode</a> 💼
 <br />
 
